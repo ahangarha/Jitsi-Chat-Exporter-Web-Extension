@@ -8,8 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 
+## [0.1.2] - 2024-05-25
+### Fixed
+- Fix the Mozilla warning for Unsafe assignment to innerHTML
+
 ## [0.1.1] - 2024-05-25
 Initial release
 
-[unreleased]: https://framagit.org/dobidi/add-bidi-support-web-extension/-/compare/0.1.1...HEAD
+[unreleased]: https://framagit.org/dobidi/add-bidi-support-web-extension/-/compare/0.1.2...HEAD
+[0.1.2]: https://framagit.org/dobidi/add-bidi-support-web-extension/-/compare/0.1.1...0.1.2
 [0.1.1]: https://framagit.org/dobidi/add-bidi-support-web-extension/-/tags/0.1.1

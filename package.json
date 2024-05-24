@@ -1,6 +1,6 @@
 {
   "name": "jitsi-chat-exporter-web-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A web extension to make it easier to export Jitsi chat",
   "main": "index.js",
   "repository": {

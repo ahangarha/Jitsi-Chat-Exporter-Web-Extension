@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Jitsi Chat Exporter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "icons": {
     "48": "./assets/icon/icon-48px.png"
   },
