@@ -46,9 +46,8 @@ function createButtonForExportingChat() {
   const newDiv = document.createElement('div');
   newDiv.id = 'chat-export-button';
   newDiv.classList.add('chat-input-container');
-  const buttonStyle = 'padding: .5rem 1rem; background-color: #C00; margin: 0 auto; width: 100%; font-weight: bold';
   newDiv.innerHTML = `
-    <button style="${buttonStyle}">
+    <button style="padding: .5rem 1rem; background-color: #C00; margin: 0 auto; width: 100%; font-weight: bold">
       Export chat to clipboard
     </button>`;
   newDiv.addEventListener('click', copyChatTextToClipboard);
